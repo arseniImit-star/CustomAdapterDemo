@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:orientation="horizontal" android:gravity="center_vertical"
+    android:padding="10dp" android:background="#FFFFFF">
+
+    <ImageView android:id="@+id/userpic" android:layout_width="62dp"
+        android:layout_height="62dp" android:scaleType="centerCrop"
+        android:contentDescription="Аватар контакта"/>
+    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+        android:layout_weight="1" android:orientation="vertical" android:paddingStart="14dp">
+        <TextView android:id="@+id/name" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:textColor="#173D45"
+            android:textSize="17sp" android:textStyle="bold"/>
+        <TextView android:id="@+id/phone" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:textColor="#526F75"
+            android:textSize="14sp" android:paddingTop="3dp"/>
+        <TextView android:id="@+id/role" android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:textColor="#167D83"
+            android:textSize="11sp" android:paddingTop="3dp"/>
+    </LinearLayout>
+</LinearLayout>

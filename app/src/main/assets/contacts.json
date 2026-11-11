@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Александр Иванов",
+    "phoneNumber": "+7 900 111-22-01",
+    "sex": "MAN"
+  },
+  {
+    "name": "Мария Петрова",
+    "phoneNumber": "+7 900 111-22-02",
+    "sex": "WOMAN"
+  },
+  {
+    "name": "Дмитрий Соколов",
+    "phoneNumber": "+7 900 111-22-03",
+    "sex": "DEVELOPER"
+  },
+  {
+    "name": "Анна Смирнова",
+    "phoneNumber": "+7 900 111-22-04",
+    "sex": "STUDENT"
+  },
+  {
+    "name": "Илья Волков",
+    "phoneNumber": "+7 900 111-22-05",
+    "sex": "UNKNOWN"
+  },
+  {
+    "name": "Екатерина Орлова",
+    "phoneNumber": "+7 900 111-22-06",
+    "sex": "WOMAN"
+  },
+  {
+    "name": "Максим Кузнецов",
+    "phoneNumber": "+7 900 111-22-07",
+    "sex": "DEVELOPER"
+  },
+  {
+    "name": "София Морозова",
+    "phoneNumber": "+7 900 111-22-08",
+    "sex": "STUDENT"
+  },
+  {
+    "name": "Артём Фёдоров",
+    "phoneNumber": "+7 900 111-22-09",
+    "sex": "MAN"
+  },
+  {
+    "name": "Полина Новикова",
+    "phoneNumber": "+7 900 111-22-10",
+    "sex": "WOMAN"
+  },
+  {
+    "name": "Никита Васильев",
+    "phoneNumber": "+7 900 111-22-11",
+    "sex": "DEVELOPER"
+  },
+  {
+    "name": "Виктория Павлова",
+    "phoneNumber": "+7 900 111-22-12",
+    "sex": "STUDENT"
+  },
+  {
+    "name": "Роман Михайлов",
+    "phoneNumber": "+7 900 111-22-13",
+    "sex": "UNKNOWN"
+  },
+  {
+    "name": "Дарья Белова",
+    "phoneNumber": "+7 900 111-22-14",
+    "sex": "WOMAN"
+  },
+  {
+    "name": "Егор Андреев",
+    "phoneNumber": "+7 900 111-22-15",
+    "sex": "MAN"
+  },
+  {
+    "name": "Кирилл Захаров",
+    "phoneNumber": "+7 900 111-22-16",
+    "sex": "DEVELOPER"
+  },
+  {
+    "name": "Алиса Громова",
+    "phoneNumber": "+7 900 111-22-17",
+    "sex": "STUDENT"
+  },
+  {
+    "name": "Сергей Лебедев",
+    "phoneNumber": "+7 900 111-22-18",
+    "sex": "MAN"
+  },
+  {
+    "name": "Ольга Крылова",
+    "phoneNumber": "+7 900 111-22-19",
+    "sex": "WOMAN"
+  },
+  {
+    "name": "Тимур Егоров",
+    "phoneNumber": "+7 900 111-22-20",
+    "sex": "UNKNOWN"
+  }
+]
